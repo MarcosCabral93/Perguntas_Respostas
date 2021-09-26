@@ -1,0 +1,11 @@
+body{
+    background-color: #d5d8d8;
+}
+#home:hover{
+    background-color: white;
+    color: blue;
+    transform: scale(1.1);
+    transition: 0.5s;
+    font-weight: bold;
+    border-radius: 4px;
+}
